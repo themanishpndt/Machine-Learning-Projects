@@ -1,21 +1,21 @@
 <div align="center">
-  <h1><a href="https://shsarv.github.io/Machine-Learning-Projects/">Machine Learning Projects</a></h1>
+  <h1><a href="https://themanishpndt.github.io/Machine-Learning-Projects/">Machine Learning Projects</a></h1>
   <img alt="GIF" src="Resources/banner.gif" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/shsarv/Machine-Learning-Projects"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/themanishpndt/Machine-Learning-Projects"><strong>Explore the docs »</strong></a>
   <br/>
-  <a href="https://github.com/shsarv/Machine-Learning-Projects/issues">Report Bug</a>
+  <a href="https://github.com/themanishpndt/Machine-Learning-Projects/issues">Report Bug</a>
   ·
-  <a href="https://github.com/shsarv/Machine-Learning-Projects/issues">Request Feature</a>
+  <a href="https://github.com/themanishpndt/Machine-Learning-Projects/issues">Request Feature</a>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/shsarv/Machine-Learning-Projects?color=dark-green)
-![Forks](https://img.shields.io/github/forks/shsarv/Machine-Learning-Projects?style=social)
-![Stargazers](https://img.shields.io/github/stars/shsarv/Machine-Learning-Projects?style=social)
-![Issues](https://img.shields.io/github/issues/shsarv/Machine-Learning-Projects)
-![License](https://img.shields.io/github/license/shsarv/Machine-Learning-Projects)
+![Contributors](https://img.shields.io/github/contributors/themanishpndt/Machine-Learning-Projects?color=dark-green)
+![Forks](https://img.shields.io/github/forks/themanishpndt/Machine-Learning-Projects?style=social)
+![Stargazers](https://img.shields.io/github/stars/themanishpndt/Machine-Learning-Projects?style=social)
+![Issues](https://img.shields.io/github/issues/themanishpndt/Machine-Learning-Projects)
+![License](https://img.shields.io/github/license/themanishpndt/Machine-Learning-Projects)
 
 ----
 
@@ -29,23 +29,23 @@ Here’s a detailed list of all projects included in this repository:
 
 | Project Name                                | Description                                                                                                                                                    | Link |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| **AI Room Booking Chatbot**                 | An intelligent chatbot built with **IBM Watson Assistant** to facilitate room bookings.                                                                        | [AI Room Booking Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D) |
-| **Brain Tumor Detection (Flask App)**        | A deep learning-based **Flask** app for detecting brain tumors in MRI scans using **PyTorch**. Medical professionals can upload scans to receive predictions.  | [Brain Tumor Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D) |
-| **Arrhythmia Classification**               | Predict and classify arrhythmias using **machine learning** algorithms and ECG data. Dataset from the [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Arrhythmia). | [Arrhythmia Classification](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia%20%5BECG%20DATA%5D) |
-| **Image Colorization**                      | A deep learning-based solution for colorizing black-and-white images using **OpenCV** and deep neural networks.                                                | [Image Colorization](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D) |
-| **Diabetes Prediction (Flask App)**          | A web application for predicting the likelihood of diabetes based on health parameters. Built using **Flask** and **scikit-learn**.                            | [Diabetes Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction%20%5BEND%202%20END%5D) |
-| **Distracted Driver Detection**             | Detect different distracted behaviors of drivers (e.g., texting, eating) using **CNN** and **image classification** techniques.                               | [Distracted Driver Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Distracted%20Driver%20Detection) |
-| **Driver Drowsiness Detection**             | Detect drowsiness in drivers using **OpenCV** and **CNN** models based on eye status, with real-time alerts for safety.                                        | [Driver Drowsiness Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Drowsiness%20detection%20%5BOPEN%20CV%5D) |
-| **Emoji Generator Based on Emotions (Tkinter)** | A **Tkinter** GUI application that detects facial expressions in real time and generates emojis based on detected emotions.                                    | [Emoji Generator](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Emoji%20Generator) |
-| **Gender and Age Detection**                | A deep learning-based app that predicts the gender and age of a person using facial images and **OpenCV**.                                                     | [Gender and Age Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Gender%20and%20age%20detection%20using%20deep%20learning) |
-| **Heart Disease Prediction**                | Predict the likelihood of heart disease based on medical attributes. Built using **scikit-learn** models, with 92% accuracy.                                   | [Heart Disease Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction%20%5BEND%202%20END%5D) |
-| **Human Activity Recognition (LSTM)**       | Classify human activities using **2D pose estimation** and **LSTM**. Explore the application of limited dataset inputs for behavior prediction.                | [Human Activity Recognition](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Activity%20Detection) |
-| **Human Detection & Counting**              | An **OpenCV** project that detects humans in images/videos and counts the number of people present.                                                            | [Human Detection & Counting](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D) |
-| **IPL Score Prediction**                    | Predict first-inning scores in IPL matches using **EDA** and various regression models (Linear, Decision Tree, Random Forest, etc.).                           | [IPL Score Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/IPL%20Score%20Prediction) |
-| **Iris Flower Classification**              | Classify iris flowers into different species based on petal and sepal measurements using classic machine learning algorithms.                                  | [Iris Flower Classification](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Iris%20Flower%20Classification) |
-| **Medical Chatbot (NLP)**                   | A medical chatbot built with **NLP** that uses a dataset of disease symptoms and responds with probable diagnoses.                                             | [Medical Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) |
-| **Predict Employee Turnover**               | Predict employee turnover using **scikit-learn** decision trees and random forest models.                                                                     | [Predict Employee Turnover](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predict%20Employee%20Turnover%20with%20scikitlearn) |
-| **Wine Quality Prediction**                 | Predict wine quality using physicochemical features like acidity, sugar, and pH with machine learning models.                                                 | [Wine Quality Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Wine%20Quality%20prediction) |
+| **AI Room Booking Chatbot**                 | An intelligent chatbot built with **IBM Watson Assistant** to facilitate room bookings.                                                                        | [AI Room Booking Chatbot](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D) |
+| **Brain Tumor Detection (Flask App)**        | A deep learning-based **Flask** app for detecting brain tumors in MRI scans using **PyTorch**. Medical professionals can upload scans to receive predictions.  | [Brain Tumor Detection](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D) |
+| **Arrhythmia Classification**               | Predict and classify arrhythmias using **machine learning** algorithms and ECG data. Dataset from the [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Arrhythmia). | [Arrhythmia Classification](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia%20%5BECG%20DATA%5D) |
+| **Image Colorization**                      | A deep learning-based solution for colorizing black-and-white images using **OpenCV** and deep neural networks.                                                | [Image Colorization](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D) |
+| **Diabetes Prediction (Flask App)**          | A web application for predicting the likelihood of diabetes based on health parameters. Built using **Flask** and **scikit-learn**.                            | [Diabetes Prediction](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Diabetes%20Prediction%20%5BEND%202%20END%5D) |
+| **Distracted Driver Detection**             | Detect different distracted behaviors of drivers (e.g., texting, eating) using **CNN** and **image classification** techniques.                               | [Distracted Driver Detection](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Distracted%20Driver%20Detection) |
+| **Driver Drowsiness Detection**             | Detect drowsiness in drivers using **OpenCV** and **CNN** models based on eye status, with real-time alerts for safety.                                        | [Driver Drowsiness Detection](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Drowsiness%20detection%20%5BOPEN%20CV%5D) |
+| **Emoji Generator Based on Emotions (Tkinter)** | A **Tkinter** GUI application that detects facial expressions in real time and generates emojis based on detected emotions.                                    | [Emoji Generator](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Emoji%20Generator) |
+| **Gender and Age Detection**                | A deep learning-based app that predicts the gender and age of a person using facial images and **OpenCV**.                                                     | [Gender and Age Detection](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Gender%20and%20age%20detection%20using%20deep%20learning) |
+| **Heart Disease Prediction**                | Predict the likelihood of heart disease based on medical attributes. Built using **scikit-learn** models, with 92% accuracy.                                   | [Heart Disease Prediction](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction%20%5BEND%202%20END%5D) |
+| **Human Activity Recognition (LSTM)**       | Classify human activities using **2D pose estimation** and **LSTM**. Explore the application of limited dataset inputs for behavior prediction.                | [Human Activity Recognition](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Human%20Activity%20Detection) |
+| **Human Detection & Counting**              | An **OpenCV** project that detects humans in images/videos and counts the number of people present.                                                            | [Human Detection & Counting](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D) |
+| **IPL Score Prediction**                    | Predict first-inning scores in IPL matches using **EDA** and various regression models (Linear, Decision Tree, Random Forest, etc.).                           | [IPL Score Prediction](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/IPL%20Score%20Prediction) |
+| **Iris Flower Classification**              | Classify iris flowers into different species based on petal and sepal measurements using classic machine learning algorithms.                                  | [Iris Flower Classification](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Iris%20Flower%20Classification) |
+| **Medical Chatbot (NLP)**                   | A medical chatbot built with **NLP** that uses a dataset of disease symptoms and responds with probable diagnoses.                                             | [Medical Chatbot](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) |
+| **Predict Employee Turnover**               | Predict employee turnover using **scikit-learn** decision trees and random forest models.                                                                     | [Predict Employee Turnover](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Predict%20Employee%20Turnover%20with%20scikitlearn) |
+| **Wine Quality Prediction**                 | Predict wine quality using physicochemical features like acidity, sugar, and pH with machine learning models.                                                 | [Wine Quality Prediction](https://github.com/themanishpndt/Machine-Learning-Projects/tree/main/Wine%20Quality%20prediction) |
 
 
 ## Technologies Used
@@ -177,12 +177,12 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/shsarv/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/themanishpndt/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
 
 ## Maintained By
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/shsarv" title="github"><img src="https://img.shields.io/github/followers/shsarv?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
+    <td align="center"><a href="https://github.com/themanishpndt"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/themanishpndt" title="github"><img src="https://img.shields.io/github/followers/themanishpndt?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
    <tr>
   <table>
